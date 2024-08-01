@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 ## Window Management
 
 ### Creating and Closing Splits
