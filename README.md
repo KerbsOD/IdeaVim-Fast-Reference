@@ -80,3 +80,6 @@
 - `n`: Move to the next occurrence in the search
 - `N`: Move to the previous occurrence in the search
 - `:%s/old/new/g`: Replace all occurrences of "old" with "new" in the file
+
+## JetBrains specifics
+- `Ctrl+F1`: View warning message without hovering the mouse over the code
